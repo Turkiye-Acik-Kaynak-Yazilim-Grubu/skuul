@@ -2,6 +2,21 @@
 
 All notable changes to `skuul` will be documented in this file.
 
+## [3.1.3](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/compare/v3.1.2...v3.1.3) (2026-11-08)
+
+
+### Bug Fixes
+
+* make documentation accessible from the app ([#443](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/issues/443)) ([63db1de](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/commit/63db1ded6c753e8cd04f71cf7416d327a05d37a5))
+
+
+### Miscellaneous Chores
+
+* **main:** release 3.1.1 ([#440](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/issues/440)) ([c1309a0](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/commit/c1309a01b9d3d21073d962b3f25506d5b12d931e))
+* **main:** release 3.1.1 ([#442](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/issues/442)) ([795aabe](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/commit/795aabe3c8a01ce330a2699ee55d90d4af79d748))
+* **main:** release 3.1.2 ([#444](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/issues/444)) ([ad37363](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/commit/ad3736307b338ee2b0c3a06086444cb55239c57b))
+* set up Release Please and a security policy ([#439](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/issues/439)) ([358e0e8](https://github.com/Turkiye-Acik-Kaynak-Yazilim-Grubu/skuul/commit/358e0e8266e3d06fccdbb8b52a67b9c064959f95))
+
 ## [3.1.2](https://github.com/yungifez/skuul/compare/v3.1.1...v3.1.2) (2026-10-28)
 
 
